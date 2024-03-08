@@ -1,5 +1,5 @@
 # phase3project
-![photo](C:/Users/User/Downloads/vaccine.jpeg)
+![photo](https://github.com/mbuvenzuve/phase3project/blob/main/shutterstock_1680091963-1024x683.jpg)
 
 ## Overview
 This project focuses on analyzing H1N1 and seasonal flu vaccine uptake patterns during the 2009 pandemic, considering respondents' backgrounds, opinions, and health behaviors. The U.S. survey from late 2009 to early 2010 captured data on social, economic, and demographic factors, alongside perceptions of illness risks and vaccine effectiveness. 
