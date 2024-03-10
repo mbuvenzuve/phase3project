@@ -114,6 +114,7 @@ Similar Accuracy: The accuracy of both models is also comparable, suggesting tha
 ## Conclusion
 The H1N1 vaccine seems to have a higher uptake compared to the seasonal flu vaccine, as indicated by the higher support for the H1N1 vaccine in the dataset. Therefore, both vaccines are predicted with similar confidence levels, indicating that the models are robust and effective for predicting vaccine uptake in the given dataset. The higher accuracy could be attributed to the specific attributes and features that strongly correlated with H1N1 vaccine uptake, as identified in the analysis. This underscores the importance of tailoring vaccination promotion strategies based on vaccine-specific factors and utilizing predictive models that consider these nuances. Additionally, the conclusion may emphasize the need for targeted interventions to address specific challenges associated with seasonal flu vaccine uptake, as reflected in the slightly lower accuracy for that model.
 
+The presentation can be viewed [here](https://www.canva.com/design/DAF-wUY4rvE/D6iHaUaBsc47xqjPfxd6OQ/edit?utm_content=DAF-wUY4rvE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
